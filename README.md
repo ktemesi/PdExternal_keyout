@@ -1,4 +1,5 @@
 # PdExternal_keyout
+
 Pure data external for generating computer keyboard events
 
 Sends keyboard events to the active window. 
@@ -7,4 +8,5 @@ The code must be a value in the range 1 to 254. For a complete list, see https:/
 It only works on Windows.
 
 Usage
+
 See the keyout-help.pd file.
