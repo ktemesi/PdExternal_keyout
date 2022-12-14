@@ -1,0 +1,12 @@
+#N canvas 124 51 603 239 12;
+#X obj 14 13 keyout;
+#X obj 15 192 keyout;
+#X msg 15 152 32;
+#X obj 129 192 keyout 32;
+#X text 67 14 - generates keyboard events;
+#X text 12 119 Usage:;
+#X text 12 48 Sends keyboard events to the active window. The parameter
+is a virtual-key code. The code must be a value in the range 1 to 254
+For a complete list \, see https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes.
+It only works on Windows., f 80;
+#X connect 2 0 1 0;
