@@ -1,6 +1,6 @@
 # PdExternal_keyout
 
-Pure data external for generating computer keyboard events
+Pure data external for generating computer keyboard events (keyout object)
 
 Sends keyboard events to the active window. 
 The parameter is a virtual-key code. 
