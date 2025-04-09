@@ -13,5 +13,5 @@ Usage
 
 See the keyout-help.pd file.
 
-There are two sample files for macOS:
+There are two sample files for macOS and Studio One:
 StopStartRecord.pd and UpDownRecord.pd
