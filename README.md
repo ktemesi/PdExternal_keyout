@@ -12,3 +12,6 @@ The code must be a value in the range 1 to 127. For a complete list, see Events.
 Usage
 
 See the keyout-help.pd file.
+
+There are two sample files for macOS:
+StopStartRecord.pd and UpDownRecord.pd
